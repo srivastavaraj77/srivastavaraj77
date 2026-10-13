@@ -1,6 +1,8 @@
-<h3 align="center">Hi, I'm Raj Vardhan, a passionate Full-Stack Developer and Generative AI enthusiast. I'm building with LLMs, RAG systems and modern web technologies, with a focus on Generative AI, retrieval pipelines and scalable full-stack applications.</h3>
+<img align="right" width="400" src="code.gif" alt="Coding animation" />
 
-<p align="center">
+<h3 align="left">Hi, I'm Raj Vardhan, a passionate Full-Stack Developer and Generative AI enthusiast. I'm building with LLMs, RAG systems and modern web technologies, with a focus on Generative AI, retrieval pipelines and scalable full-stack applications.</h3>
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=srivastavaraj77&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
